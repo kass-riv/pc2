@@ -38,3 +38,5 @@ C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\ref\pc2.dll
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\pc2.pdb
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\pc2.genruntimeconfig.cache
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\pc2.csproj.CopyComplete
+C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\presentacion.cshtml.g.cs
+C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\productos.cshtml.g.cs
