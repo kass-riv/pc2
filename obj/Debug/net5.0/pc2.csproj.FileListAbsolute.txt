@@ -40,3 +40,5 @@ C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\pc2.genruntimeconfig.cache
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\pc2.csproj.CopyComplete
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\presentacion.cshtml.g.cs
 C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\productos.cshtml.g.cs
+C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\login.cshtml.g.cs
+C:\Users\Kasandra\Documents\pc2\obj\Debug\net5.0\Razor\Views\Home\registro.cshtml.g.cs
